@@ -3,6 +3,12 @@
 ## [Unreleased]
 
 ### Changed
+- Updated icons to v1.69.0 (1854 → 2024 icons)
+
+
+## [Unreleased]
+
+### Changed
 - Updated icons to v1.48.0 (1776 → 1854 icons)
 
 
